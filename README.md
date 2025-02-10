@@ -1,5 +1,1 @@
-# Stock-Market-Prediction
-1. Executed data preprocessing techniques to address missing values and assembled a refined data frame with pertinent features for stock market prediction.
-2. Leveraged Sweetviz, an advanced auto-EDA tool, to generate a comprehensive HTML report detailing exploratory data analysis (EDA) insights.
-3. Engineered additional features based on EDA findings, including a predictive variable for next-day stock prices and a boolean target field to indicate whether the market opened higher than the previous day.
-4. Employed a Random Forest Classifier to discern complex, non-linear patterns in the stock market data, achieving a high degree of precision and accuracy in predictive modeling.
+Preprocessed stock market data by addressing missing values and refining key features to improve prediction accuracy. Utilized Sweetviz for automated exploratory data analysis (EDA), generating a detailed HTML report with insights to inform feature engineering. Created predictive features, such as a next-day stock price indicator and a boolean market trend target, enhancing model interpretability. Applied a Random Forest Classifier to uncover non-linear patterns and achieve high precision in predicting stock trends.
